@@ -17,9 +17,6 @@
                 </div>
             </div>
         </div>
-        <div class="col-10 col-lg-3 mb-5">
-
-        </div>
         <div class="col-1  d-none d-lg-block" style="margin-top: 20%">
             <div class="content float-right mr-5 "><img  src="layouts/img/main-right.png" alt=""></div>
         </div>

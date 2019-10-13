@@ -2,18 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9da108da-7424-4db1-8325-636108182323" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/include/eight.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/include/nine.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/include/seven.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/include/fourth.php" beforeDir="false" afterPath="$PROJECT_DIR$/include/fourth.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/include/second.php" beforeDir="false" afterPath="$PROJECT_DIR$/include/second.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/include/six.php" beforeDir="false" afterPath="$PROJECT_DIR$/include/six.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/include/third.php" beforeDir="false" afterPath="$PROJECT_DIR$/include/third.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/include/seven.php" beforeDir="false" afterPath="$PROJECT_DIR$/include/seven.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/layouts/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/layouts/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/layouts/js/jquery.pagepiling.js" beforeDir="false" afterPath="$PROJECT_DIR$/layouts/js/jquery.pagepiling.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/layouts/js/local.js" beforeDir="false" afterPath="$PROJECT_DIR$/layouts/js/local.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -27,8 +18,8 @@
       <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="332">
-              <caret line="65" column="32" selection-start-line="65" selection-start-column="32" selection-end-line="65" selection-end-column="32" />
+            <state relative-caret-position="302">
+              <caret line="63" column="4" lean-forward="true" selection-start-line="63" selection-start-column="4" selection-end-line="63" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -36,8 +27,8 @@
       <file leaf-file-name="seven.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/include/seven.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="55" selection-start-line="6" selection-start-column="55" selection-end-line="6" selection-end-column="55" />
+            <state relative-caret-position="300">
+              <caret line="20" column="36" lean-forward="true" selection-start-line="20" selection-start-column="36" selection-end-line="20" selection-end-column="36" />
             </state>
           </provider>
         </entry>
@@ -79,11 +70,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="nine.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="nine.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/include/nine.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="465">
-              <caret line="31" column="80" selection-start-line="31" selection-start-column="80" selection-end-line="31" selection-end-column="80" />
+              <caret line="31" column="56" selection-start-line="31" selection-start-column="56" selection-end-line="31" selection-end-column="56" />
               <folding>
                 <element signature="n#style#0;n#h1#0;n#div#0;n#div#0;n#div#1;n#div#0;n#section#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#h6#0;n#div#0;n#div#0;n#div#1;n#div#0;n#section#0;n#!!top" expanded="true" />
@@ -128,11 +119,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/layouts/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="278" column="22" selection-start-line="278" selection-start-column="22" selection-end-line="278" selection-end-column="22" />
+            <state relative-caret-position="145">
+              <caret line="160" column="17" selection-start-line="160" selection-start-column="17" selection-end-line="160" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -150,7 +141,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>popup</find>
       <find>rgb</find>
       <find>купить</find>
       <find>Cormorant</find>
@@ -173,13 +163,14 @@
       <find>ex-head</find>
       <find>ora</find>
       <find>Oranienbaum</find>
-      <find>col-11 col-xl-8 ml-lg-5 mx-auto</find>
       <find>instagram</find>
-      <find>whats</find>
       <find>сonsalt</find>
       <find>конс</find>
       <find>sectionSelector</find>
       <find>выбрать ку</find>
+      <find>col-11 col-xl-8 ml-lg-5 mx-auto</find>
+      <find>whats</find>
+      <find>slide</find>
     </findStrings>
     <replaceStrings>
       <replace>constalt</replace>
@@ -207,14 +198,14 @@
         <option value="$PROJECT_DIR$/include/third.php" />
         <option value="$PROJECT_DIR$/include/second.php" />
         <option value="$PROJECT_DIR$/layouts/js/jquery.pagepiling.js" />
-        <option value="$PROJECT_DIR$/include/seven.php" />
-        <option value="$PROJECT_DIR$/layouts/css/style.css" />
-        <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/include/eight.php" />
         <option value="$PROJECT_DIR$/include/fourth.php" />
         <option value="$PROJECT_DIR$/include/six.php" />
         <option value="$PROJECT_DIR$/layouts/js/local.js" />
         <option value="$PROJECT_DIR$/include/nine.php" />
+        <option value="$PROJECT_DIR$/include/seven.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/layouts/css/style.css" />
       </list>
     </option>
   </component>
@@ -330,12 +321,12 @@
       <updated>1570372934341</updated>
       <workItem from="1570372935810" duration="6889000" />
       <workItem from="1570478038856" duration="36272000" />
-      <workItem from="1570782859859" duration="49043000" />
+      <workItem from="1570782859859" duration="49472000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="92204000" />
+    <option name="totallyTimeSpent" value="92633000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -346,7 +337,7 @@
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32969698" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32969698" />
       <window_info anchor="right" id="Remote Host" order="3" weight="0.3297568" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25679544" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
@@ -595,20 +586,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/include/seven.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="55" selection-start-line="6" selection-start-column="55" selection-end-line="6" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/layouts/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="278" column="22" selection-start-line="278" selection-start-column="22" selection-end-line="278" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/include/fourth.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="327">
@@ -616,13 +593,6 @@
           <folding>
             <element signature="n#style#0;n#div#2;n#div#0;n#section#0;n#!!top" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="332">
-          <caret line="65" column="32" selection-start-line="65" selection-start-column="32" selection-end-line="65" selection-end-column="32" />
         </state>
       </provider>
     </entry>
@@ -667,13 +637,34 @@
     <entry file="file://$PROJECT_DIR$/include/nine.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="465">
-          <caret line="31" column="80" selection-start-line="31" selection-start-column="80" selection-end-line="31" selection-end-column="80" />
+          <caret line="31" column="56" selection-start-line="31" selection-start-column="56" selection-end-line="31" selection-end-column="56" />
           <folding>
             <element signature="n#style#0;n#h1#0;n#div#0;n#div#0;n#div#1;n#div#0;n#section#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#h6#0;n#div#0;n#div#0;n#div#1;n#div#0;n#section#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#1;n#div#0;n#section#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#div#1;n#div#0;n#section#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/seven.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="36" lean-forward="true" selection-start-line="20" selection-start-column="36" selection-end-line="20" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="302">
+          <caret line="63" column="4" lean-forward="true" selection-start-line="63" selection-start-column="4" selection-end-line="63" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/layouts/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="160" column="17" selection-start-line="160" selection-start-column="17" selection-end-line="160" selection-end-column="17" />
         </state>
       </provider>
     </entry>
