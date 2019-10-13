@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9da108da-7424-4db1-8325-636108182323" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/include/fifth.php" beforeDir="false" afterPath="$PROJECT_DIR$/include/fifth.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,11 +13,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="215">
-              <caret line="52" column="13" lean-forward="true" selection-start-line="52" selection-start-column="13" selection-end-line="52" selection-end-column="13" />
+            <state relative-caret-position="210">
+              <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -70,7 +68,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="fifth.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="fifth.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/include/fifth.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="396">
@@ -211,8 +209,8 @@
         <option value="$PROJECT_DIR$/layouts/css/style.css" />
         <option value="$PROJECT_DIR$/include/second.php" />
         <option value="$PROJECT_DIR$/include/first.php" />
-        <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/include/fifth.php" />
+        <option value="$PROJECT_DIR$/index.php" />
       </list>
     </option>
   </component>
@@ -310,12 +308,12 @@
       <updated>1570372934341</updated>
       <workItem from="1570372935810" duration="6889000" />
       <workItem from="1570478038856" duration="36272000" />
-      <workItem from="1570782859859" duration="38947000" />
+      <workItem from="1570782859859" duration="39103000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="82108000" />
+    <option name="totallyTimeSpent" value="82264000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -326,9 +324,9 @@
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32969698" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32969698" />
       <window_info anchor="right" id="Remote Host" order="3" weight="0.3297568" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25679544" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25679544" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32969698" />
@@ -568,13 +566,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="215">
-          <caret line="52" column="13" lean-forward="true" selection-start-line="52" selection-start-column="13" selection-end-line="52" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/include/first.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
@@ -622,6 +613,13 @@
             <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#9;n#div#1;n#div#0;n#section#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#2;n#div#0;n#section#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
         </state>
       </provider>
     </entry>
