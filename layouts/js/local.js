@@ -48,7 +48,7 @@ $(function() {
 function menuToggle() {
    $('.navbar').toggleClass('background-menu-color');
    $('#navigation').toggleClass('h-100vh');
-    let newsrc = ($('.menu-icon-image').attr('src') == 'layouts/img/menu.png') ? 'layouts/img/menu-close.png' : 'layouts/img/menu.png';
+    let newsrc = ($('.menu-icon-image').attr('src') == 'layouts/img/menu.svg') ? 'layouts/img/menu-close.svg' : 'layouts/img/menu.svg';
     $('.menu-icon-image').attr('src', newsrc );
 }
 function showMore() {
