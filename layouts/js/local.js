@@ -52,7 +52,7 @@ function menuToggle() {
     $('.menu-icon-image').attr('src', newsrc );
 }
 function showMore() {
-    $(this).next('.show-more-text').toggle();
+    $(this).next('.show-more-text').toggle('show');
     $(this).find('.drop-arrow').toggleClass('rotate');
 }
 function menuTogglePopup() {
