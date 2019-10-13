@@ -23,9 +23,9 @@
 
 <body>
 <nav class="navbar navbar-expand-lg fixed-top navbar-dark">
-    <a class="navbar-brand ml-0 ml-sm-5 " href="#"><img src="layouts/img/logo.png" alt=""></a>
+    <a class="navbar-brand ml-0 ml-sm-5 " href="#"><img src="layouts/img/logo.svg" alt=""></a>
     <button class="navbar-toggler" style="border: 0" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-        <span class="menu-icon"><img style="width: 20px" class="menu-icon-image" src="layouts/img/menu.png" alt=""></span>
+        <span class="menu-icon"><img style="width: 20px" class="menu-icon-image" src="layouts/img/menu.svg" alt=""></span>
     </button>
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
         <ul id="navigation" class="navbar-nav" style="margin: 0 auto">
@@ -48,7 +48,7 @@
                 <a class="nav-link text-white text-uppercase" href="#">Контакты</a>
             </li>
             <li class="nav-item mt-5 mt-sm-0 ml-0 ml-xl-3">
-                <a class="nav-link text-white text-uppercase ml-lg-5 ml-xl-5 pt-5 pt-sm-0" href="tel:+7(925)1010012"><h4><img class="mr-2" src="layouts/img/WhatsApp.png" alt="WhatsApp">+7 (925) 101 00 12</h4></a>
+                <a class="nav-link text-white text-uppercase ml-lg-5 ml-xl-5 pt-5 pt-sm-0" href="tel:+7(925)1010012"><h4><img class="mr-2" src="layouts/img/WhatsApp.svg" alt="WhatsApp">+7 (925) 101 00 12</h4></a>
             </li>
         </ul>
     </div>

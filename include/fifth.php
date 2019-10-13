@@ -14,7 +14,7 @@
                         <div class="col-12 mx-auto nopadding know-more mt-3">
                             <p class="ml-1 main-color show-more">
                                 Подробнее о курсе
-                                <img src="layouts/img/arrow.png" class="drop-arrow">
+                                <img src="layouts/img/arrow.svg" class="drop-arrow">
                             </p>
                             <div class="show-more-text">
                                 <div class="col-12">
@@ -51,7 +51,7 @@
                         <img data-toggle="#second-popup" src="layouts/img/material-2-mobile.png" class="toggle-popup responsive-img" alt="">
                         <p class="ml-1 main-color show-more mt-2">
                             Подробнее о курсе
-                            <img src="layouts/img/arrow.png" class="drop-arrow">
+                            <img src="layouts/img/arrow.svg" class="drop-arrow">
                         </p>
                         <div class="show-more-text">
                             <div class="col-12">
@@ -93,7 +93,7 @@
                         <div class="col-12">
                             <p class="main-color d-block d-md-none show-more mt-2">
                                 Подробнее
-                                <img src="layouts/img/arrow.png" class="drop-arrow">
+                                <img src="layouts/img/arrow.svg" class="drop-arrow">
                             </p>
                             <div class="show-more-text">
                                 <div class="col-12">
@@ -134,7 +134,7 @@
                         <div class="col-12">
                             <p class="main-color d-block d-md-none show-more mt-2">
                                 Подробнее
-                                <img src="layouts/img/arrow.png" class="drop-arrow">
+                                <img src="layouts/img/arrow.svg" class="drop-arrow">
                             </p>
                             <div class="show-more-text">
                                 <div class="col-12">
@@ -175,7 +175,7 @@
                         <div class="col-12">
                             <p class="main-color d-block d-md-none show-more mt-2">
                                 Подробнее
-                                <img src="layouts/img/arrow.png" class="drop-arrow">
+                                <img src="layouts/img/arrow.svg" class="drop-arrow">
 
                             </p>
                             <div class="show-more-text">
@@ -216,7 +216,7 @@
                         <div class="col-12">
                             <p class="main-color d-block d-md-none show-more mt-2">
                                 Подробнее
-                                <img src="layouts/img/arrow.png" class="drop-arrow">
+                                <img src="layouts/img/arrow.svg" class="drop-arrow">
                             </p>
                             <div class="show-more-text">
                                 <div class="col-12">
