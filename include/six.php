@@ -1,7 +1,7 @@
-<section id="exc" class="mobile-diff section slide_six" data-anchor="exc">
-    <div class="row nopadding align-items-center nomargin">
+<section id="section6" class="mobile-diff section slide_six" data-anchor="section6">
+    <div class="row nopadding align-items-center nomargin mt-0  mt-lg-3">
         <div class="col-1 d-none d-lg-block">
-            <img class=" float-right" src="layouts/img/left-about-project.png" alt="">
+            <img class=" float-right" src="layouts/img/left-6.png" alt="">
         </div>
         <div class="col-10 col-md-8 col-xl-10 mt-5 mx-auto mx-lg-0">
             <div class="row mb-3">
@@ -15,9 +15,6 @@
                     <span class="next">
                         <img class="center-absolute" src="layouts/img/next.png" alt="">
                     </span>
-                </div>
-                <div class="col-3 consalt text-center d-none d-xl-block" style="line-height: 70px">
-                    Получить консультацию <img class="ml-2" src="layouts/img/vector.png" alt="">
                 </div>
             </div>
             <div class="owl-carousel">
@@ -60,7 +57,6 @@
                 </div>
             </div>
             </div>
-        </div>
         <div class="col-md-11 mx-auto">
             <a class="text-uppercase d-none d-lg-block next-slide ml-3" href="#about"><img class="mouse-icon" src="layouts/img/mouse.png" alt="Листайте вниз">Листайте вниз</a>
         </div>

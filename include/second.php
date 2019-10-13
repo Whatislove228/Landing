@@ -18,12 +18,12 @@
 
         </div>
         <div class="col-12 col-lg-4 mb-5 d-none d-lg-block">
-            <div class="col-12 col-xl-8 ml-0 ml-lg-5">
+            <div class="col-12 col-xl-8 ml-0 ml-md-3 ml-xl-5">
                 <span  class="section-head text-white text-left mb-3">Обо мне</span>
                 <img class="responsive-img" src="layouts/img/author.png" alt="author">
             </div>
         </div>
-        <div class="col-10 col-lg-6 d-none d-md-block mb-5 mt-5">
+        <div class="col-10 col-lg-6 d-none d-md-block mb-5 mt-5 pl-lg-1 pl-xl-1">
             <h4  class="monseratM text-white mb-3">Добрый день, друзья!</h4>
             <p class="text-white">Меня зовут Ирина Белова (Капралова) и я уверана, что история  интереснее, чем любой сериал или роман.</p>
             <p  style="color: #E5A567;">Сейчас я развиваю свой авторский исторический проект. В нем сошлось все, что я люблю: история, судьба людей, драматургия, красота, истина.</p>
@@ -40,7 +40,7 @@
             <div class="content float-right mr-5 "><img  src="layouts/img/main-right.png" alt=""></div>
         </div>
         <div class="col-12">
-            <div class="col-10 main-button  d-block d-sm-none mt-2 mb-2 mx-auto"><a href="#">Подробнее о курсе</a></div>
+            <div class="col-10 main-button  d-block d-sm-none mt-2 mb-5 mx-auto"><a href="#">Подробнее о курсе</a></div>
         </div>
         <div class="col-md-11 mx-auto">
             <a class="text-uppercase d-none d-lg-block next-slide" href="#about"><img class="mouse-icon" src="layouts/img/mouse.png" alt="Листайте вниз">Листайте вниз</a>

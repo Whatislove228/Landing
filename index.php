@@ -9,11 +9,8 @@
 <!--    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>-->
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
 
-    <script>
-        document.addEventListener('touchmove', function (event) {
-            if (event.scale !== 1) { event.preventDefault(); }
-        }, false);
-    </script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.theme.default.min.css">
     <link rel="stylesheet" href="layouts/css/style.css">
     <script>
         console.log(screen.width);
@@ -46,10 +43,10 @@
                 <a class="nav-link text-white text-uppercase" href="#">Екскурсии</a>
             </li>
             <li class="nav-item text-white ml-0 ml-lg-3">
-                <a class="nav-link text-white text-uppercase" href="#">Инстаграм</a>
+                <a class="nav-link text-white text-uppercase" href="#section6">Инстаграм</a>
             </li>
             <li class="nav-item ml-0 ml-lg-3">
-                <a class="nav-link text-white text-uppercase" href="#">Контакты</a>
+                <a class="nav-link text-white text-uppercase" href="#section7">Контакты</a>
             </li>
             <li class="nav-item mt-5 mt-sm-0 ml-0 ml-xl-3">
                 <a class="nav-link text-white text-uppercase ml-lg-5 ml-xl-5 pt-5 pt-sm-0" href="tel:+7(925)1010012"><h4><img class="mr-2" src="layouts/img/WhatsApp.svg" alt="WhatsApp">+7 (925) 101 00 12</h4></a>
@@ -64,11 +61,13 @@
     <?php include ('include/fourth.php') ?>
     <?php include ('include/fifth.php') ?>
     <?php include ('include/six.php') ?>
+    <?php include ('include/seven.php') ?>
+    <?php include ('include/eight.php') ?>
+    <?php include ('include/nine.php') ?>
 </div>
 
 </body>
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.theme.default.min.css">
+
 
 <script type="text/javascript" src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>

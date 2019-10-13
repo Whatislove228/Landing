@@ -1,10 +1,10 @@
-<section id="consalt" class="mobile-diff section slide_third" data-anchor="consalt">
+<section id="section7" class="mobile-diff section slide_seven" data-anchor="section7">
     <div class="row align-items-center ml-0 mr-0">
         <div class="col-1">
             <img class="d-none d-lg-block float-right" src="layouts/img/consalt-left.png" alt="">
         </div>
         <div class="col-12 col-lg-7 mb-0 mb-md-5 mt-4">
-            <div class="col-11 col-xl-8 ml-lg-5 mx-auto">
+            <div class="col-11 col-xl-8 mx-lg-0 mx-auto">
                 <h2 class="main-color oranienbaum my-4 h2-more">Получите бесплатную консультацию
                     о моем проекте, курсах и пособиях!</h2>
                 <span class="text-white monseratM">Оставьте заявку и я свяжусь с Вами, отвечу на все вопросы</span>

@@ -157,6 +157,11 @@ input {
     background: url('../img/slide-6.png') no-repeat center center;
     background-size: cover;
 }
+.slide_seven {
+    height: 100vh!important;
+    background: url('../img/slide7.png') no-repeat center center;
+    background-size: cover;
+}
 .img-material-1 {
     background: url('../img/material-1.png') no-repeat center center;
 
@@ -199,7 +204,13 @@ input {
     height: 100vh;
 }
 
-
+.instagram {
+    background: #E5A567;
+    line-height: 60px;
+    font-family: Cormorant;
+    font-size: 16px;
+    text-transform: uppercase;
+}
 @media all  and (max-width: 1200px){
     .section-head {
         font-size: 2em;
@@ -219,6 +230,10 @@ input {
     .visit {
         font-size: 0.7em;
     }
+    .instagram {
+        font-size: 13px;
+    }
+
 }
 @media all  and (max-width: 992px){
     #navigation {
@@ -261,7 +276,7 @@ input {
 }
 @media all  and (max-width: 375px){
     .h1-main-section {
-        font-size: 2em;
+        font-size: 2.2em;
         line-height: 1em;
     }
     .h3-main-section {
@@ -439,4 +454,10 @@ input {
 }
 .owl-carousel {
     display: block!important;
+}
+.owl-dots {
+    display: none!important;
+}
+.owl-nav {
+    display: none!important;
 }

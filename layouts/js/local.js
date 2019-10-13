@@ -10,7 +10,7 @@ $(document).ready(function () {
             direction: 'vertical',
             verticalCentered: true,
             sectionsColor: [],
-            anchors: ['first', 'about', 'consalt'],
+            anchors: ['first', 'about', 'consalt','section4','section5','section6','section7','section8','section9'],
             scrollingSpeed: 700,
             easing: 'swing',
             loopBottom: false,
@@ -20,7 +20,7 @@ $(document).ready(function () {
                 'textColor': '#000',
                 'bulletsColor': '#000',
                 'position': 'right',
-                'tooltips': ['Обо мне', 'О проекте', 'Консультации', 'section4']
+                'tooltips': ['Обо мне', 'О проекте', 'Консультации', 'section4','section5','section6','section7','section8','section9']
             },
             normalScrollElementTouchThreshold: 3,
             touchSensitivity: 3,

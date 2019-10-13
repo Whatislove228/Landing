@@ -3,14 +3,11 @@
         <div class="col-1">
             <img class="d-none d-lg-block float-right" src="layouts/img/left-about-project.png" alt="">
         </div>
-        <div class="col-12 col-lg-10 mb-5">
+        <div class="col-12 col-lg-10 mb-5 mt-4">
             <div class="col-11 col-xl-12 ml-lg-5 mx-auto">
                 <div class="row">
                     <div class="col-10 col-md-5 mt-3 mt-sm-3">
                         <h1  class=" section-head text-white text-left mb-3">О проекте</h1>
-                    </div>
-                    <div class="col-5 consalt text-center  d-none d-lg-block" style="margin-top: 20px;margin-bottom: 10px">
-                        Получить консультацию <img class="ml-2" src="layouts/img/vector.png" alt="">
                     </div>
                 </div>
                 <p class="text-white mb-4">Сквозь знакомые по учебникам имена, картины, события – Вы увидите лица живых людей из плоти и крови, с их надеждами, разочарованиями, ошибками.</p>
@@ -23,7 +20,7 @@
                     и обретут смысл. Короли и королевы прошлого больше не будут похожи на пазл, который никогда не собрать. Вы увидите и почувствуете  – все эти люди на портретах и из учебников -  реальные люди!
                     Благодаря “ Живой истории в лицах”  Вы будете ориентироваться в эпохах, как будто сами жили в то время,
                     и видели все своими глазами. Мы начнём с лучшего времени, чтобы полюбить историю - с 16 века.</p>
-                <div class="mt-5 col-lg-5 col-md-12 col-xl-5 col-sm-12 col-12 main-button">Выбрать свой курс</div>
+                <div class="mt-5 col-lg-3 col-md-12 col-sm-12 col-12 main-button">Выбрать курс</div>
 
             </div>
         </div>
