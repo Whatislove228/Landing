@@ -411,7 +411,7 @@
             </div>
             <div class="col-12 buy-popup-fixed position-fixed h-100" style="z-index: 9999">
                 <div class="row">
-                    <div class="col-6 mt-2"><img src="layouts/img/logo.svg" alt=""></div>
+                    <div class="col-6 mt-2"><a href="#first"><img src="layouts/img/logo.svg" alt=""></a></div>
                     <div class="col-6 text-right mt-3"><img class="close-buy-popup-mobile" src="layouts/img/menu-close.png" alt=""></div>
                 </div>
                 <div class="row nomargin">

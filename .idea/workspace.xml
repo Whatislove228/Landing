@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9da108da-7424-4db1-8325-636108182323" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/ajax/vardump.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ajax/vardump.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/include/fifth.php" beforeDir="false" afterPath="$PROJECT_DIR$/include/fifth.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
     </list>
@@ -14,11 +15,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="87" column="49" selection-start-line="87" selection-start-column="49" selection-end-line="87" selection-end-column="49" />
+            <state relative-caret-position="311">
+              <caret line="77" column="63" lean-forward="true" selection-start-line="77" selection-end-line="78" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="fifth.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/include/fifth.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="253">
+              <caret line="413" column="65" lean-forward="true" selection-start-line="413" selection-start-column="61" selection-end-line="413" selection-end-column="65" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="first.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/include/first.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="18" selection-start-column="13" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -63,41 +82,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="fifth.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/include/fifth.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="602">
-              <caret line="438" column="76" selection-start-line="438" selection-start-column="76" selection-end-line="438" selection-end-column="76" />
-              <folding>
-                <element signature="n#style#0;n#form#0;n#div#1;n#div#8;n#div#1;n#div#0;n#section#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#input#0;n#form#0;n#div#1;n#div#8;n#div#1;n#div#0;n#section#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#input#1;n#form#0;n#div#1;n#div#8;n#div#1;n#div#0;n#section#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#input#2;n#form#0;n#div#1;n#div#8;n#div#1;n#div#0;n#section#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#button#0;n#form#0;n#div#1;n#div#8;n#div#1;n#div#0;n#section#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#form#0;n#div#1;n#div#9;n#div#1;n#div#0;n#section#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#input#0;n#form#0;n#div#1;n#div#9;n#div#1;n#div#0;n#section#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#input#1;n#form#0;n#div#1;n#div#9;n#div#1;n#div#0;n#section#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#input#2;n#form#0;n#div#1;n#div#9;n#div#1;n#div#0;n#section#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#button#0;n#form#0;n#div#1;n#div#9;n#div#1;n#div#0;n#section#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="six.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/include/six.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="631">
               <caret line="60" column="87" selection-start-line="60" selection-start-column="87" selection-end-line="60" selection-end-column="87" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="mail.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ajax/mail.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="31" lean-forward="true" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -133,9 +122,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>buy-</find>
-      <find>show-more</find>
-      <find>close-popup</find>
       <find>close-popup.png</find>
       <find>whats</find>
       <find>close-buy-popup</find>
@@ -161,8 +147,11 @@
       <find>border-color</find>
       <find>success.p</find>
       <find>success.png</find>
-      <find>active</find>
       <find>logo.png</find>
+      <find>close-</find>
+      <find>logo.</find>
+      <find>logo</find>
+      <find>active</find>
     </findStrings>
     <replaceStrings>
       <replace>constalt</replace>
@@ -173,6 +162,9 @@
       <replace>success.svg</replace>
       <replace>logo.svg</replace>
     </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/</dir>
+    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -192,7 +184,6 @@
         <option value="$PROJECT_DIR$/include/first.php" />
         <option value="$PROJECT_DIR$/include/second.php" />
         <option value="$PROJECT_DIR$/include/fourth.php" />
-        <option value="$PROJECT_DIR$/include/fifth.php" />
         <option value="$PROJECT_DIR$/include/six.php" />
         <option value="$PROJECT_DIR$/ajax/mail.php" />
         <option value="$PROJECT_DIR$/include/seven.php" />
@@ -202,6 +193,7 @@
         <option value="$PROJECT_DIR$/layouts/js/jquery.pagepiling.js" />
         <option value="$PROJECT_DIR$/layouts/css/style.css" />
         <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/include/fifth.php" />
       </list>
     </option>
   </component>
@@ -322,12 +314,12 @@
       <updated>1570372934341</updated>
       <workItem from="1570372935810" duration="6889000" />
       <workItem from="1570478038856" duration="36272000" />
-      <workItem from="1570782859859" duration="59744000" />
+      <workItem from="1570782859859" duration="60142000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="102905000" />
+    <option name="totallyTimeSpent" value="103303000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -338,9 +330,9 @@
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32969698" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32969698" />
       <window_info anchor="right" id="Remote Host" order="3" weight="0.3297568" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25679544" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25679544" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32969698" />
@@ -548,32 +540,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/include/first.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="281">
-          <caret line="19" column="100" selection-start-line="19" selection-start-column="100" selection-end-line="19" selection-end-column="100" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/include/fifth.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="602">
-          <caret line="438" column="76" selection-start-line="438" selection-start-column="76" selection-end-line="438" selection-end-column="76" />
-          <folding>
-            <element signature="n#style#0;n#form#0;n#div#1;n#div#8;n#div#1;n#div#0;n#section#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#input#0;n#form#0;n#div#1;n#div#8;n#div#1;n#div#0;n#section#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#input#1;n#form#0;n#div#1;n#div#8;n#div#1;n#div#0;n#section#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#input#2;n#form#0;n#div#1;n#div#8;n#div#1;n#div#0;n#section#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#button#0;n#form#0;n#div#1;n#div#8;n#div#1;n#div#0;n#section#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#form#0;n#div#1;n#div#9;n#div#1;n#div#0;n#section#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#input#0;n#form#0;n#div#1;n#div#9;n#div#1;n#div#0;n#section#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#input#1;n#form#0;n#div#1;n#div#9;n#div#1;n#div#0;n#section#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#input#2;n#form#0;n#div#1;n#div#9;n#div#1;n#div#0;n#section#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#button#0;n#form#0;n#div#1;n#div#9;n#div#1;n#div#0;n#section#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ajax/mail.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
@@ -634,10 +600,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/include/first.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="18" selection-start-column="13" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="87" column="49" selection-start-line="87" selection-start-column="49" selection-end-line="87" selection-end-column="49" />
+        <state relative-caret-position="311">
+          <caret line="77" column="63" lean-forward="true" selection-start-line="77" selection-end-line="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/fifth.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="413" column="65" lean-forward="true" selection-start-line="413" selection-start-column="61" selection-end-line="413" selection-end-column="65" />
         </state>
       </provider>
     </entry>

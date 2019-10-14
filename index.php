@@ -24,7 +24,7 @@
 
 <body>
 <nav class="navbar navbar-expand-lg fixed-top navbar-dark">
-    <a class="navbar-brand ml-0 ml-sm-5 " href="#"><img src="layouts/img/logo.svg" alt=""></a>
+    <a class="navbar-brand ml-0 ml-sm-5 " href="#first"><img src="layouts/img/logo.svg" alt=""></a>
     <button class="navbar-toggler" style="border: 0" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
         <span class="menu-icon"><img style="width: 20px" class="menu-icon-image" src="layouts/img/menu.svg" alt=""></span>
     </button>
@@ -75,7 +75,7 @@
     </div>
     <div class="col-12 success-popup-mobile position-fixed h-100" style="z-index: 9999">
         <div class="row">
-            <div class="col-6 mt-2"><img src="layouts/img/logo.svg" alt=""></div>
+            <div class="col-6 mt-2"><a href="#first"><img src="layouts/img/logo.svg" alt=""></a></div>
             <div class="col-6 text-right mt-3"><img class="close-buy-popup-mobile" src="layouts/img/menu-close.svg" alt=""></div>
         </div>
         <div class="row nomargin">
