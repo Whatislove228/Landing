@@ -17,10 +17,10 @@ $(document).ready(function () {
             loopTop: false,
             css3: true,
             navigation: {
-                'textColor': '#000',
-                'bulletsColor': '#000',
+                'textColor': 'red',
+                'bulletsColor': 'black',
                 'position': 'right',
-                'tooltips': ['Обо мне', 'О проекте', 'Консультации', 'section4','section5','section6','section7','section8','section9']
+                'tooltips': ['Главная','Обо мне', 'О проекте', 'Консультации', 'Курсы','Екскурсии','Консультации','Инстаграм','Контакты']
             },
             normalScrollElementTouchThreshold: 3,
             touchSensitivity: 3,

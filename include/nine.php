@@ -5,7 +5,7 @@
         </div>
         <div class="col-12 col-md-11">
             <div class="row">
-                <div class="col-lg-4 col-12 mt-5">
+                <div class="col-lg-4 col-12 mt-5 mb-5">
                     <h1 class="text-white mb-4 oranienbaum" style="font-size: 3em">Контакты</h1>
                     <h6 class="main-color mb-3" style="font-size: 20px">Реклама</h6>
                     <p class="text-white oranienbaum" style="font-size: 20px">Если Вы хотите купить у меня рекламу <br>
