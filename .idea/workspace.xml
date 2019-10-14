@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9da108da-7424-4db1-8325-636108182323" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/include/nine.php" beforeDir="false" afterPath="$PROJECT_DIR$/include/nine.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/layouts/js/local.js" beforeDir="false" afterPath="$PROJECT_DIR$/layouts/js/local.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/include/fifth.php" beforeDir="false" afterPath="$PROJECT_DIR$/include/fifth.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,11 +14,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="348">
-              <caret line="87" column="112" selection-start-line="87" selection-start-column="87" selection-end-line="87" selection-end-column="112" />
+            <state relative-caret-position="340">
+              <caret line="87" column="49" selection-start-line="87" selection-start-column="49" selection-end-line="87" selection-end-column="49" />
             </state>
           </provider>
         </entry>
@@ -46,7 +45,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/layouts/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="401">
@@ -134,9 +133,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>slide</find>
-      <find>100vh</find>
-      <find>.consalt</find>
       <find>buy-</find>
       <find>show-more</find>
       <find>close-popup</find>
@@ -163,7 +159,10 @@
       <find>курс</find>
       <find>navigation</find>
       <find>border-color</find>
+      <find>success.p</find>
+      <find>success.png</find>
       <find>active</find>
+      <find>logo.png</find>
     </findStrings>
     <replaceStrings>
       <replace>constalt</replace>
@@ -171,6 +170,8 @@
       <replace>consalt</replace>
       <replace>arrow.svg</replace>
       <replace>close-popup.svg</replace>
+      <replace>success.svg</replace>
+      <replace>logo.svg</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -189,7 +190,6 @@
         <option value="$PROJECT_DIR$/new/index.php" />
         <option value="$PROJECT_DIR$/include/third.php" />
         <option value="$PROJECT_DIR$/include/first.php" />
-        <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/include/second.php" />
         <option value="$PROJECT_DIR$/include/fourth.php" />
         <option value="$PROJECT_DIR$/include/fifth.php" />
@@ -201,6 +201,7 @@
         <option value="$PROJECT_DIR$/layouts/js/local.js" />
         <option value="$PROJECT_DIR$/layouts/js/jquery.pagepiling.js" />
         <option value="$PROJECT_DIR$/layouts/css/style.css" />
+        <option value="$PROJECT_DIR$/index.php" />
       </list>
     </option>
   </component>
@@ -250,6 +251,12 @@
               <item name="landing 3" type="462c0819:PsiDirectoryNode" />
               <item name="layouts" type="462c0819:PsiDirectoryNode" />
               <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="landing 3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="landing 3" type="462c0819:PsiDirectoryNode" />
+              <item name="layouts" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="landing 3" type="b2602c69:ProjectViewProjectNode" />
@@ -315,12 +322,12 @@
       <updated>1570372934341</updated>
       <workItem from="1570372935810" duration="6889000" />
       <workItem from="1570478038856" duration="36272000" />
-      <workItem from="1570782859859" duration="59489000" />
+      <workItem from="1570782859859" duration="59744000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="102650000" />
+    <option name="totallyTimeSpent" value="102905000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -588,13 +595,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="348">
-          <caret line="87" column="112" selection-start-line="87" selection-start-column="87" selection-end-line="87" selection-end-column="112" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/include/eight.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
@@ -631,6 +631,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="401">
           <caret line="502" column="1" lean-forward="true" selection-start-line="502" selection-start-column="1" selection-end-line="502" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="87" column="49" selection-start-line="87" selection-start-column="49" selection-end-line="87" selection-end-column="49" />
         </state>
       </provider>
     </entry>

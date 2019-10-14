@@ -70,22 +70,22 @@
             <p style="font-size: 20px;width: 100%" class="main-color head-buy mx-auto">Спасибо за заявку!</p>
             <p style="width: 100%" class="text-white text-center">Я свяжусь с Вами
                 в ближайшее время</p>
-            <img src="layouts/img/success.png" class="mx-auto" alt="">
+            <img src="layouts/img/success.svg" class="mx-auto" alt="">
         </div>
     </div>
     <div class="col-12 success-popup-mobile position-fixed h-100" style="z-index: 9999">
         <div class="row">
-            <div class="col-6 mt-2"><img src="layouts/img/logo.png" alt=""></div>
-            <div class="col-6 text-right mt-3"><img class="close-buy-popup-mobile" src="layouts/img/menu-close.png" alt=""></div>
+            <div class="col-6 mt-2"><img src="layouts/img/logo.svg" alt=""></div>
+            <div class="col-6 text-right mt-3"><img class="close-buy-popup-mobile" src="layouts/img/menu-close.svg" alt=""></div>
         </div>
         <div class="row nomargin">
             <div class="row pl-4 pr-4 pb-4 pt-2 mx-auto">
                 <p style="font-size: 20px;width: 100%" class="main-color head-buy mx-auto">Спасибо за заявку!</p>
                 <p style="width: 100%" class="text-white text-center">Я свяжусь с Вами
                     в ближайшее время</p>
-                <img src="layouts/img/success.png" class="mx-auto" alt="">
+                <img src="layouts/img/success.svg" class="mx-auto" alt="">
             </div>
-            <a class="nav-link text-white text-uppercase ml-lg-5 ml-xl-5 pt-5 pt-sm-0" href="tel:+7(925)1010012"><h4><img class="mr-2" src="layouts/img/WhatsApp.png" alt="WhatsApp">+7 (925) 101 00 12</h4></a>
+            <a class="nav-link text-white mx-auto text-uppercase ml-lg-5 ml-xl-5 pt-5 pt-sm-0" href="tel:+79251010012"><h4><img class="mr-2" src="layouts/img/WhatsApp.png" alt="WhatsApp">+7 (925) 101 00 12</h4></a>
         </div>
     </div>
 </div>
