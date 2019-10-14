@@ -10,7 +10,7 @@ $(document).ready(function () {
             direction: 'vertical',
             verticalCentered: true,
             sectionsColor: [],
-            anchors: ['first', 'about', 'consalt','section4','section5','section6','section7','section8','section9'],
+            anchors: ['first', 'about', 'consalt','about-project','course','ex','section7','insta','contacts'],
             scrollingSpeed: 700,
             easing: 'swing',
             loopBottom: false,
@@ -62,7 +62,7 @@ function menuTogglePopup() {
         $('.buy-popup').show();
     } else {
         $('#main-head-buy-mobile').attr('placeholder', $(this).data('head'));
-        $('#main-head-bu-mobile').val($(this).data('head'));
+        $('#main-head-buy-mobile').val($(this).data('head'));
         $('.buy-popup-fixed').show();
     }
 
@@ -73,7 +73,11 @@ function menuTogglePopupClose() {
 }
 function menuTogglePopupCloseMobile() {
     $('.buy-popup-fixed').hide();
-
+    $('.success-popup-mobile').hide();
+}
+function closeSuccess() {
+    $('.success-popup').hide('slow');
+    $('.buy-popup').hide();
 }
 function closePopup() {
    let id =  $(this).data('toggle');
@@ -97,10 +101,34 @@ $('.prev').on('click', function () {
     owl.trigger('prev.owl.carousel')
 });
 $('.buy-button').on('click',menuTogglePopup);
+$('.close-success-popup').on('click',closeSuccess);
 $('.close-buy-popup').on('click',menuTogglePopupClose);
 $('.close-buy-popup-mobile').on('click',menuTogglePopupCloseMobile);
 $('.menu-icon').on('click',menuToggle);
 $('.show-more').on('click',showMore);
+$('.ajax-form-submit').on('submit',Mail);
 if(!isMobile) {
     $('.toggle-popup').on('click', closePopup);
+}
+function Mail() {
+    let data = $(this).serializeArray();
+    console.log(data);
+    // $('input').css('border-bottom','1px solid rgba(220,71,24,0.4)');
+    // if(data[0].value != '' && data[1].value != '') {
+        $.ajax({
+            url: '/ajax/mail.php',
+            type: 'POST',
+            dataType: 'html',
+            data: data,
+            success: function (e) {
+                console.log(isMobile);
+                if(!isMobile) {
+                    $('.success-popup').show();
+                } else {
+                    $('.success-popup-mobile').show();
+                }
+            }
+        });
+    // }
+    return false;
 }
