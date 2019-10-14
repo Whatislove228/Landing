@@ -20,7 +20,7 @@
                     и обретут смысл. Короли и королевы прошлого больше не будут похожи на пазл, который никогда не собрать. Вы увидите и почувствуете  – все эти люди на портретах и из учебников -  реальные люди!
                     Благодаря “ Живой истории в лицах”  Вы будете ориентироваться в эпохах, как будто сами жили в то время,
                     и видели все своими глазами. Мы начнём с лучшего времени, чтобы полюбить историю - с 16 века.</p>
-                <div class="mt-5 col-lg-3 col-md-12 col-sm-12 col-12 main-button">Выбрать курс</div>
+                <div class="mt-5 col-lg-3 col-md-12 col-sm-12 col-12 main-button"><a href="#course">Выбрать курс</a></div>
 
             </div>
         </div>
@@ -29,7 +29,7 @@
         </div>
 
         <div class="col-md-11 mx-auto">
-            <a class="text-uppercase d-none d-lg-block next-slide" href="#about"><img class="mouse-icon" src="layouts/img/mouse.png" alt="Листайте вниз">Листайте вниз</a>
+            <a class="text-uppercase d-none d-lg-block next-slide" href="#course"><img class="mouse-icon" src="layouts/img/mouse.png" alt="Листайте вниз">Листайте вниз</a>
         </div>
     </div>
 </section>

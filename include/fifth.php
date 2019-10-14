@@ -1,4 +1,4 @@
-<section id="materials" class="mobile-diff section slide_five" data-anchor="materials">
+<section id="course" class="mobile-diff section slide_five" data-anchor="course">
     <div class="row align-items-center ml-0 mr-0">
         <div class="col-1">
             <img class="d-none d-lg-block float-right" src="layouts/img/left-about-project.png" alt="">
@@ -254,7 +254,7 @@
                     <div class="col-12 col-lg-7 text-white">
                         <div class="row">
                             <div class="col-12 mt-2 mb-2">
-                                <img class="toggle-popup" data-toggle="#first-popup" src="layouts/img/close-popup.png" style="height: 15px;width: 15px;display: block;float: right" alt="">
+                                <img class="toggle-popup" data-toggle="#first-popup" src="layouts/img/close-popup.svg" style="height: 15px;width: 15px;display: block;float: right" alt="">
                             </div>
                         </div>
                         <div class="row scroll_sec ml-2 mr-2" style="height: 400px; overflow: auto">
@@ -278,7 +278,7 @@
                     <div class="col-12 col-lg-7 text-white">
                         <div class="row">
                             <div class="col-12 mt-2 mb-2">
-                                <img class="toggle-popup" data-toggle="#second-popup" src="layouts/img/close-popup.png" style="height: 15px;width: 15px;display: block;float: right" alt="">
+                                <img class="toggle-popup" data-toggle="#second-popup" src="layouts/img/close-popup.svg" style="height: 15px;width: 15px;display: block;float: right" alt="">
                             </div>
                         </div>
                         <div class="row scroll_sec ml-2 mr-2" style="height: 300px; overflow: auto">
@@ -303,7 +303,7 @@
                     <div class="col-12 col-lg-7 text-white">
                         <div class="row">
                             <div class="col-12 mt-2 mb-2">
-                                <img class="toggle-popup" data-toggle="#third-popup" src="layouts/img/close-popup.png" style="height: 15px;width: 15px;display: block;float: right" alt="">
+                                <img class="toggle-popup" data-toggle="#third-popup" src="layouts/img/close-popup.svg" style="height: 15px;width: 15px;display: block;float: right" alt="">
                             </div>
                         </div>
                         <div class="row scroll_sec ml-2 mr-2" style="height: 300px; overflow: auto">
@@ -328,7 +328,7 @@
                     <div class="col-12 col-lg-7 text-white">
                         <div class="row">
                             <div class="col-12 mt-2 mb-2">
-                                <img class="toggle-popup" data-toggle="#fourth-popup" src="layouts/img/close-popup.png" style="height: 15px;width: 15px;display: block;float: right" alt="">
+                                <img class="toggle-popup" data-toggle="#fourth-popup" src="layouts/img/close-popup.svg" style="height: 15px;width: 15px;display: block;float: right" alt="">
                             </div>
                         </div>
                         <div class="row scroll_sec ml-2 mr-2" style="height: 300px; overflow: auto">
@@ -353,7 +353,7 @@
                     <div class="col-12 col-lg-7 text-white">
                         <div class="row">
                             <div class="col-12 mt-2 mb-2">
-                                <img class="toggle-popup" data-toggle="#fifth-popup" src="layouts/img/close-popup.png" style="height: 15px;width: 15px;display: block;float: right" alt="">
+                                <img class="toggle-popup" data-toggle="#fifth-popup" src="layouts/img/close-popup.svg" style="height: 15px;width: 15px;display: block;float: right" alt="">
                             </div>
                         </div>
                         <div class="row scroll_sec ml-2 mr-2" style="height: 400px; overflow: auto">
@@ -378,7 +378,7 @@
                     <div class="col-12 col-lg-7 text-white">
                         <div class="row">
                             <div class="col-12 mt-2 mb-2">
-                                <img class="toggle-popup" data-toggle="#six-popup" src="layouts/img/close-popup.png" style="height: 15px;width: 15px;display: block;float: right" alt="">
+                                <img class="toggle-popup" data-toggle="#six-popup" src="layouts/img/close-popup.svg" style="height: 15px;width: 15px;display: block;float: right" alt="">
                             </div>
                         </div>
                         <div class="row scroll_sec ml-2 mr-2" style="height: 300px; overflow: auto">
@@ -396,17 +396,17 @@
                 </div>
             </div>
             <div class="col-5 buy-popup position-fixed">
-                <div class="col-12 text-right mt-3"><img class="close-buy-popup" src="layouts/img/close-popup.png" alt=""></div>
+                <div class="col-12 text-right mt-3"><img class="close-buy-popup" src="layouts/img/close-popup.svg" alt=""></div>
                 <div class="row pl-5 pr-5 pb-5 pt-2">
-                    <p style="" class="main-color head-buy">Выберите интересующий Вас материал и я свяжусь с вами</p>
-                    <input id="main-head-buy" style="width: 100%" type="text" placeholder="Заголовок">
-                    <input style="width: 100%" type="text" placeholder="Имя">
-                    <input style="width: 100%" type="text" placeholder="E-mail">
-                    <div class="col-12 mt-3 mb-3 nopadding">
-                        <div class="buy-button text-white" style="font-family: Cormorant">
-                            Купить
-                        </div>
-                    </div>
+                    <p style="" class="main-color head-buy">Заполните Имя и E-mail и я свяжусь с вами</p>
+                    <form action="" class="ajax-form-submit" style="width: 100%">
+                        <input id="main-head-buy" name="head" style="width: 100%" type="text" placeholder="Заголовок">
+                        <input style="width: 100%" name="name" type="text" placeholder="Имя">
+                        <input style="width: 100%" name="email" type="text" placeholder="E-mail">
+                        <button type="submit" class="col-12 mt-3 mb-3 buy-button-popup text-white nopadding" style="border: none">
+                                Купить
+                        </button>
+                    </form>
                 </div>
             </div>
             <div class="col-12 buy-popup-fixed position-fixed h-100" style="z-index: 9999">
@@ -415,15 +415,15 @@
                     <div class="col-6 text-right mt-3"><img class="close-buy-popup-mobile" src="layouts/img/menu-close.png" alt=""></div>
                 </div>
                 <div class="row nomargin">
-                    <p style="" class="main-color head-buy mt-4">Выберите интересующий Вас материал и я свяжусь с вами</p>
-                    <input id="main-head-buy-mobile" style="width: 100%" type="text" placeholder="Заголовок">
-                    <input style="width: 100%" type="text" placeholder="Имя">
-                    <input style="width: 100%" type="text" placeholder="E-mail">
-                    <div class="col-12 mt-3 mb-3 nopadding">
-                        <div class="buy-button text-white" style="font-family: Cormorant">
+                    <p style="" class="main-color head-buy">Заполните Имя и E-mail и я свяжусь с вами</p>
+                    <form action="" class="ajax-form-submit" style="width: 100%">
+                        <input id="main-head-buy-mobile" name="head" style="width: 100%" type="text" placeholder="Заголовок">
+                        <input style="width: 100%" name="name" type="text" placeholder="Имя">
+                        <input style="width: 100%" name="email" type="text" placeholder="E-mail">
+                        <button type="submit" class="col-12 mt-3 mb-3 buy-button-popup text-white nopadding" style="border: none">
                             Купить
-                        </div>
-                    </div>
+                        </button>
+                    </form>
                     <a class="nav-link text-white text-uppercase ml-lg-5 ml-xl-5 pt-5 pt-sm-0" href="tel:+7(925)1010012"><h4><img class="mr-2" src="layouts/img/WhatsApp.png" alt="WhatsApp">+7 (925) 101 00 12</h4></a>
 
                 </div>
@@ -436,7 +436,7 @@
         </div>
 
         <div class="col-md-11 mx-auto">
-            <a class="text-uppercase d-none d-lg-block next-slide" href="#about"><img class="mouse-icon" src="layouts/img/mouse.png" alt="Листайте вниз">Листайте вниз</a>
+            <a class="text-uppercase d-none d-lg-block next-slide" href="#ex"><img class="mouse-icon" src="layouts/img/mouse.png" alt="Листайте вниз">Листайте вниз</a>
         </div>
     </div>
 </section>

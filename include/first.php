@@ -16,10 +16,10 @@
                 <h1 class="h1-main-section pb-3">Живая история в лицах</h1>
                 <h2 class="h2-main-section pb-2">Здесь оживают эпохи. Герои прошлого обретают плоть и кровь. Картины - смысл. Учитесь, путешествуя во времени и влюбляйтесь в живую историю.</h2>
                 <div class="row mt-5 mb-4 mx-auto">
-                    <div class="col-lg-5 col-md-12 col-xl-5 col-sm-12 col-12 main-button">Выбрать свой курс</div>
-                    <div class="col-lg-5 col-md-12 col-xl-6 col-sm-12 col-12 md-ml-0  ml-lg-4 ml-ls-4 text-center consalt">
+                    <div class="col-lg-5 col-md-12 col-xl-5 col-sm-12 col-12 main-button"><a href="#course">Выбрать свой курс</a></div>
+                    <a href="#section7" class="col-lg-5 col-md-12 col-xl-6 col-sm-12 col-12 md-ml-0 main-color ml-lg-4 ml-ls-4 text-center consalt">
                         Получить консультацию <img class="ml-2" src="layouts/img/vector.png" alt="">
-                    </div>
+                    </a>
                 </div>
             </div>
         </div>

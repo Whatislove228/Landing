@@ -8,13 +8,14 @@
                 <h2 class="main-color oranienbaum my-4 h2-more">Получите бесплатную консультацию
                     о моем проекте, курсах и пособиях!</h2>
                 <span class="text-white monseratM">Оставьте заявку и я свяжусь с Вами, отвечу на все вопросы</span>
-                <form action="">
-                    <input class="center-block" type="text" placeholder="Имя">
-                    <input type="text" placeholder="E-Mail">
+                <form action="" class="ajax-form-submit">
+                    <input name="name" class="center-block" type="text" placeholder="Имя">
+                    <input name="email" type="text" placeholder="E-Mail">
+                    <button type="submit" class="col-12 col-md-8 mt-5 consalt  text-center">
+                        Получить консультацию <img class="ml-2  d-none d-md-inline-block" src="layouts/img/vector.png" alt="">
+                    </button>
                 </form>
-                <div class="col-12 col-md-8 mt-5 consalt  text-center">
-                    Получить консультацию <img class="ml-2  d-none d-md-inline-block" src="layouts/img/vector.png" alt="">
-                </div>
+
             </div>
         </div>
         <div class="col-10 col-lg-3 mb-5">

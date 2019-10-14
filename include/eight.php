@@ -1,4 +1,4 @@
-<section id="con_secondasda" class="mobile-diff section slide_six" data-anchor="con_secondasdasd">
+<section id="insta" class="mobile-diff section slide_six" data-anchor="insta">
     <div class="row align-items-center ml-0 mr-0">
         <div class="col-1 d-none d-lg-block">
             <img class=" float-right" src="layouts/img/left-8.png" alt="">
@@ -13,7 +13,7 @@
                     <img width="100%" src="layouts/img/inst1.png" alt="">
                     <div class="row mx-auto d-none d-md-block">
                         <div class="col-lg-12 mt-4 text-white text-center instagram">
-                            Заказать рекламу
+                            <a target="_blank" href="https://www.instagram.com/mama_from_dinamo/">Заказать рекламу</a>
                         </div>
                     </div>
                 </div>
@@ -28,7 +28,7 @@
         </div>
 
         <div class="col-md-11 mx-auto mt-5">
-            <a class="text-uppercase d-none d-lg-block next-slide" href="#about"><img class="mouse-icon" src="layouts/img/mouse.png" alt="Листайте вниз">Листайте вниз</a>
+            <a class="text-uppercase d-none d-lg-block next-slide" href="#contacts"><img class="mouse-icon" src="layouts/img/mouse.png" alt="Листайте вниз">Листайте вниз</a>
         </div>
     </div>
 </section>

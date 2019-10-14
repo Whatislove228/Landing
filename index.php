@@ -34,19 +34,19 @@
                 <a class="nav-link text-white text-uppercase" data-href="#about" href="#about">Обо мне <span class="sr-only">(current)</span></a>
             </li>
             <li class="nav-item active ml-0 ml-lg-3" >
-                <a class="nav-link text-white text-uppercase" data-href="#first" href="#first">О проекте <span class="sr-only">(current)</span></a>
+                <a class="nav-link text-white text-uppercase" data-href="#first" href="#about-project">О проекте <span class="sr-only">(current)</span></a>
             </li>
             <li class="nav-item ml-0 ml-lg-3">
                 <a class="nav-link text-white text-uppercase " data-href="#course" href="#course">Курсы</a>
             </li>
             <li class="nav-item ml-0 ml-lg-3">
-                <a class="nav-link text-white text-uppercase" href="#">Екскурсии</a>
+                <a class="nav-link text-white text-uppercase" href="#ex">Екскурсии</a>
             </li>
             <li class="nav-item text-white ml-0 ml-lg-3">
-                <a class="nav-link text-white text-uppercase" href="#section6">Инстаграм</a>
+                <a class="nav-link text-white text-uppercase" href="#insta">Инстаграм</a>
             </li>
             <li class="nav-item ml-0 ml-lg-3">
-                <a class="nav-link text-white text-uppercase" href="#section7">Контакты</a>
+                <a class="nav-link text-white text-uppercase" href="#contacts">Контакты</a>
             </li>
             <li class="nav-item mt-5 mt-sm-0 ml-0 ml-xl-3">
                 <a class="nav-link text-white text-uppercase ml-lg-5 ml-xl-5 pt-5 pt-sm-0" href="tel:+7(925)1010012"><h4><img class="mr-2" src="layouts/img/WhatsApp.svg" alt="WhatsApp">+7 (925) 101 00 12</h4></a>
@@ -64,6 +64,30 @@
     <?php include ('include/seven.php') ?>
     <?php include ('include/eight.php') ?>
     <?php include ('include/nine.php') ?>
+    <div class="col-5 success-popup position-fixed" style="z-index: 99999">
+        <div class="col-12 text-right mt-3"><img class="close-success-popup" src="layouts/img/close-popup.svg" alt=""></div>
+        <div class="row pl-4 pr-4 pb-4 pt-2 mx-auto">
+            <p style="font-size: 20px;width: 100%" class="main-color head-buy mx-auto">Спасибо за заявку!</p>
+            <p style="width: 100%" class="text-white text-center">Я свяжусь с Вами
+                в ближайшее время</p>
+            <img src="layouts/img/success.png" class="mx-auto" alt="">
+        </div>
+    </div>
+    <div class="col-12 success-popup-mobile position-fixed h-100" style="z-index: 9999">
+        <div class="row">
+            <div class="col-6 mt-2"><img src="layouts/img/logo.png" alt=""></div>
+            <div class="col-6 text-right mt-3"><img class="close-buy-popup-mobile" src="layouts/img/menu-close.png" alt=""></div>
+        </div>
+        <div class="row nomargin">
+            <div class="row pl-4 pr-4 pb-4 pt-2 mx-auto">
+                <p style="font-size: 20px;width: 100%" class="main-color head-buy mx-auto">Спасибо за заявку!</p>
+                <p style="width: 100%" class="text-white text-center">Я свяжусь с Вами
+                    в ближайшее время</p>
+                <img src="layouts/img/success.png" class="mx-auto" alt="">
+            </div>
+            <a class="nav-link text-white text-uppercase ml-lg-5 ml-xl-5 pt-5 pt-sm-0" href="tel:+7(925)1010012"><h4><img class="mr-2" src="layouts/img/WhatsApp.png" alt="WhatsApp">+7 (925) 101 00 12</h4></a>
+        </div>
+    </div>
 </div>
 
 </body>

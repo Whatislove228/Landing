@@ -1,4 +1,4 @@
-<section id="section6" class="mobile-diff section slide_six" data-anchor="section6">
+<section id="ex" class="mobile-diff section slide_six" data-anchor="ex">
     <div class="row nopadding align-items-center nomargin mt-0  mt-lg-3">
         <div class="col-1 d-none d-lg-block">
             <img class=" float-right" src="layouts/img/left-6.png" alt="">
@@ -58,7 +58,7 @@
             </div>
             </div>
         <div class="col-md-11 mx-auto">
-            <a class="text-uppercase d-none d-lg-block next-slide ml-3" href="#about"><img class="mouse-icon" src="layouts/img/mouse.png" alt="Листайте вниз">Листайте вниз</a>
+            <a class="text-uppercase d-none d-lg-block next-slide ml-3" href="#section7"><img class="mouse-icon" src="layouts/img/mouse.png" alt="Листайте вниз">Листайте вниз</a>
         </div>
     </div>
 </section>

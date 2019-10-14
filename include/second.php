@@ -33,17 +33,17 @@
             <p class="text-white">С 2004 работала авторств док. фильмов на «Певром канале», сейчас шеф-редактором на «Мой планете».</p>
             <p class="text-white">Как драматург пишу пьесы  на исторические темы.  Сейчас в театре “Собор” идет спектакль по моей пьесе “Последняя русская царица” про жену Петра I Евдокию
                 Лопухину. Новый спектакль по моей пьесе про Ивана Грозного выйдет зимой 2019</p>
-            <div class="col-6 main-button d-sm-block d-none mt-2 mb-2"><a href="#">Подробнее о проекте</a></div>
+            <div class="col-6 main-button d-sm-block d-none mt-2 mb-2"><a href="#about-project">Подробнее о проекте</a></div>
 
         </div>
         <div class="col-1  d-none d-lg-block" style="margin-top: 20%">
             <div class="content float-right mr-5 "><img  src="layouts/img/main-right.png" alt=""></div>
         </div>
         <div class="col-12">
-            <div class="col-10 main-button  d-block d-sm-none mt-2 mb-5 mx-auto"><a href="#">Подробнее о курсе</a></div>
+            <div class="col-10 main-button  d-block d-sm-none mt-2 mb-5 mx-auto"><a href="#course">Подробнее о курсе</a></div>
         </div>
         <div class="col-md-11 mx-auto">
-            <a class="text-uppercase d-none d-lg-block next-slide" href="#about"><img class="mouse-icon" src="layouts/img/mouse.png" alt="Листайте вниз">Листайте вниз</a>
+            <a class="text-uppercase d-none d-lg-block next-slide" href="#about-project"><img class="mouse-icon" src="layouts/img/mouse.png" alt="Листайте вниз">Листайте вниз</a>
         </div>
     </div>
 </section>
